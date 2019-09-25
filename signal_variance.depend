@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1548672084 source:b:\dsp-c\signal_variance\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1548672084 source:b:\dsp-c\signal_variance\waveform.c
+
+1550152258 source:b:\dsp-c\signalstandartdeviation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1550151816 source:b:\dsp-c\signalstandartdeviation\waveform.c
+
